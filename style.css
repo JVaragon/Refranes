@@ -1,0 +1,49 @@
+h1 {
+    border: solid 5px black;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+  }
+  
+ 
+  p{
+      font-size: 25px;
+  }
+
+  p.rojo {
+    border-left: double 20px red;
+    border-top: double 20px red;
+  }
+  
+  p.azul {
+    border-color: blue green;
+    border-width: 5px 10px 20px 40px;
+    border-style: dashed;
+  }
+  
+  p.amarillo {
+    border-color: yellow;
+    border-width: 40px 10px;
+    border-style: double;
+  }
+  
+  p.verde-azul {
+    border-style: solid none;
+    border-width: 20px;
+    border-color: lawngreen white blue;
+  }
+  
+  p.rojonegro {
+    border-style: dashed solid dotted;
+    border-width: 40px;
+    border-color: red black black;
+
+  }
+  
+  p.puntitosnegro {
+    border-style: dotted solid dashed double;
+    border-width: 10px 40px 20px;
+    border-color: black black black red;
+
+  }
+  
